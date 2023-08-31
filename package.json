@@ -1,0 +1,24 @@
+{
+  "name": "google-api-practice",
+  "version": "1.0.0",
+  "description": "Collection of Node.js scripts to learn more about Google Cloud API's",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/joquijada/google-api-practice.git"
+  },
+  "keywords": [
+    "gcloud",
+    "google-cloud-api",
+    "gcp"
+  ],
+  "author": "Jose Quijada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joquijada/google-api-practice/issues"
+  },
+  "homepage": "https://github.com/joquijada/google-api-practice#readme"
+}
